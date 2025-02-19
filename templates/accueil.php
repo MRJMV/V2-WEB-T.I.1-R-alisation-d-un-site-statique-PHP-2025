@@ -39,22 +39,22 @@
         </h5>
         <h5 id=enbas>
             <ul>
-                <li>
+                <li class="acc">
                     <a href="">Une brève présentation de Prague sur son rôle en Tchéquie et dans le monde</a>
                 </li>
-                <li>
+                <li class="acc">
                     <a href="">Un rappel historique, de sa fondation à aujourd'hui</a>
                 </li>
-                <li>
+                <li class="acc">
                     <a href="">Un tour d'horizon en matière d'art et culture</a>
                 </li>
-                <li>
+                <li class="acc">
                     <a href="">Une galerie de photographies</a>
                 </li>
-                <li>
+                <li class="acc">
                     <a href="">Un formulaire pour nous contacter</a>
                 </li>
-                <li>
+                <li class="acc">
                     <a href="">Des liens vers des sites partenaires</a>
                 </li>
             </ul>

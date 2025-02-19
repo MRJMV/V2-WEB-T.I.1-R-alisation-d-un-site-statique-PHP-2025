@@ -27,12 +27,40 @@
             </h2>
         </div>
         <div>
-            <img src="img/armoiries.png" alt="">
+            <img src="img/liens.jpg" alt="">
         </div>
-        <p>
-            Prague, capitale et plus grande ville de la Tchéquie, est située en Bohême, au cœur de l'Europe centrale, sur les rives de la Vltava. Capitale historique du royaume de Bohême, elle connaît son apogée au XIVe siècle sous Charles IV, devenant un centre culturel et religieux majeur. Au XVIe et XVIIe siècles, sous Rodolphe II, Prague redevient brièvement capitale impériale. Après une période de déclin, elle retrouve son importance au XIXe siècle avec la Renaissance nationale tchèque et devient la capitale de la Tchécoslovaquie en 1918.
-
-            Pendant la guerre froide, Prague tente une libéralisation politique en 1968, écrasée par les troupes du pacte de Varsovie. La révolution de Velours de 1989 marque la fin de cette période. Aujourd'hui, Prague est un centre économique dynamique avec une économie tertiaire et touristique florissante. La ville, riche en styles architecturaux, est inscrite au patrimoine mondial de l'UNESCO depuis 1992.
+        <p id="last">
+            D'autres capitales se sont associées à notre site.
+        </p>
+        <p class="flex">
+        <ul>
+            <li><a href="">Berlin</a></li>
+            <li><a href="">Vienne</a></li>
+            <li><a href="">Paris</a></li>
+            <li><a href="">Madrid</a></li>
+            <li><a href="">Rome</a></li>
+            <li><a href="">Londres</a></li>
+        </ul>
+        </p>
+        <p class="flex">
+        <ul>
+            <li><a href="">Lisbonne</a></li>
+            <li><a href="">Prague</a></li>
+            <li><a href="">Amsterdam</a></li>
+            <li><a href="">Copenhague</a></li>
+            <li><a href="">Dublin</a></li>
+            <li><a href="">Athènes</a></li>
+        </ul>
+        </p>
+        <p class="flex">
+        <ul>
+            <li><a href="">Sofia</a></li>
+            <li><a href="">Varsovie</a></li>
+            <li><a href="">Helsinski</a></li>
+            <li><a href="">Stockholm</a></li>
+            <li><a href="">Oslo</a></li>
+            <li><a href="">Budapest</a></li>
+        </ul>
         </p>
     </main>
     <footer>

@@ -27,13 +27,41 @@
             </h2>
         </div>
         <div>
-            <img src="img/armoiries.png" alt="">
+            <img class="taille" src="img/480px_Church_of_St._Nicholas_Baroque_interior.jpg" alt="">
         </div>
-        <p>
-            Prague, capitale et plus grande ville de la Tchéquie, est située en Bohême, au cœur de l'Europe centrale, sur les rives de la Vltava. Capitale historique du royaume de Bohême, elle connaît son apogée au XIVe siècle sous Charles IV, devenant un centre culturel et religieux majeur. Au XVIe et XVIIe siècles, sous Rodolphe II, Prague redevient brièvement capitale impériale. Après une période de déclin, elle retrouve son importance au XIXe siècle avec la Renaissance nationale tchèque et devient la capitale de la Tchécoslovaquie en 1918.
-
-            Pendant la guerre froide, Prague tente une libéralisation politique en 1968, écrasée par les troupes du pacte de Varsovie. La révolution de Velours de 1989 marque la fin de cette période. Aujourd'hui, Prague est un centre économique dynamique avec une économie tertiaire et touristique florissante. La ville, riche en styles architecturaux, est inscrite au patrimoine mondial de l'UNESCO depuis 1992.
-        </p>
+        <div>
+            <img class="taille" src="img/480px_Klementinum_Praha.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/480px_Praha_Karluv.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/480px_Schwarzenberský_palác.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/480px_Vltava_river_in_Prague.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/480px_WallensteinPalacePrague.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/1280px_Church_of_St._Nicholas_Baroque_interior.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/1280px_Klementinum_Praha.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/1280px_Praha_Karluv.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/1280px_Schwarzenberský_palác.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/1280px_Vltava_river_in_Prague.jpg" alt="">
+        </div>
+        <div>
+            <img class="taille" src="img/1280px_WallensteinPalacePrague.jpg" alt="">
+        </div>
     </main>
     <footer>
 
