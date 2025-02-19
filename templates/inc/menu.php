@@ -1,23 +1,23 @@
 <ul id=list>
-    <li>
+    <li class="liste">
         <a href="./?=accueil">Accueil</a>
     </li>
-    <li>
+    <li class="liste">
         <a href="./?p=geo">Géographie</a>
     </li>
-    <li>
+    <li class="liste">
         <a href="./?p=hist">Histoire</a>
     </li>
-    <li>
+    <li class="liste">
         <a href="./?p=cult">Culture</a>
     </li>
-    <li>
+    <li class="liste">
         <a href="./?p=gal">Galerie</a>
     </li>
-    <li>
+    <li class="liste">
         <a href="./?p=form">Contacts</a>
     </li>
-    <li>
+    <li class="liste">
         <a href="./?p=link">Liens</a>
     </li>
 </ul>

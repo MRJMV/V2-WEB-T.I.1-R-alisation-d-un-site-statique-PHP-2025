@@ -3,6 +3,7 @@ body {
   padding: 0;
 }
 
+/*Banniere*/
 #ban {
   background-image: url(../img/banniere.jpg);
   margin: 0 auto;
@@ -11,8 +12,8 @@ body {
   border-radius: 10px;
 }
 
+/*Banniere*/
 #ban h1 {
-  /* padding-top: ; */
   width: 300px;
   height: 80px;
   text-align: center;
@@ -21,9 +22,14 @@ body {
   text-transform: uppercase;
   opacity: 75%;
   margin-left: 37.5%;
+  border-radius: 10px;
 }
 
+/*Bar de navigation*/
 nav {
+  top: 0;
+  overflow: hidden;
+  position: sticky;
   margin: 0 auto;
   height: 50px;
   width: 1280px;
@@ -31,18 +37,19 @@ nav {
   border-radius: 10px;
 }
 
-ul {
+/*Bar de navigation*/
+#list {
   height: 50px;
   width: 1280px;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
   background-color: #ccc;
   border-radius: 10px;
 }
 
-li {
+/*Bar de navigation*/
+.liste {
   height: 50px;
   width: 182.8px;
   float: left;
@@ -50,9 +57,10 @@ li {
   padding: 0;
 }
 
-li a {
-  height: 50px;
+/*Bar de navigation*/
+.liste a {
   display: block;
+  height: 50px;
   color: #000000;
   text-align: center;
   padding: 15px 15px;
@@ -61,22 +69,86 @@ li a {
   font-size: 1em;
 }
 
-li a:hover {
+/*Bar de navigation*/
+.liste a:hover {
   height: 50px;
   color: #ffffff;
   background-color: #a90331;
 }
 
-main {
-  /* border-radius: 10px; */
-  width: 1280px;
-  margin: 0 auto;
+/*lien cliquable en bas de page accueil*/
+li {
+  list-style: none;
 }
 
+/*lien cliquable en bas de page accueil*/
+#enbas {
+  margin: 0;
+  padding: 0;
+}
+
+/*comportement général*/
+main {
+  width: 1280px;
+  margin: 0 auto;
+  background-color: lightgrey;
+  text-align: justify;
+  border-radius: 10px;
+}
+
+/*comportement général*/
 h2 {
-    border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
   text-align: center;
   color: #ffffff;
   background-color: #a90331;
   font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  height: 50px;
+  padding-top: 25px;
+}
+
+/*comportement général*/
+img {
+  padding-left: 25%;
+}
+
+/*comportement général*/
+p {
+  font-size: 20px;
+  margin: 20px 30px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+/*comportement général*/
+h5 {
+  text-align: center;
+  padding: 20px;
+}
+
+/*comportement général*/
+h5 a {
+  text-decoration: none;
+}
+
+/*paragraphe de la page histoire*/
+.para {
+    font-weight: 100;
+}
+
+/*liste de la page culture*/
+.clut {
+    list-style: disc;
+}
+
+/*liste de la page culture*/
+#cult {
+    padding-left: 100px;
+}
+
+/*Page 404*/
+#err404 {
+  text-align: center;
 }
