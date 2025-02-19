@@ -1,5 +1,5 @@
 <div id=ban>
     <h1>
-        BRUXELLES
+        PRAGUE
     </h1>
 </div>

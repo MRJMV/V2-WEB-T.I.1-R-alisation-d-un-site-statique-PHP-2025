@@ -27,7 +27,7 @@ if (isset($_GET['p'])) {
             break;
         default:
             $title = "Erreur 404";
-            include "../templates/erreur-404.php";
+            include "../templates/page-404.php";
     }
 } else {
     $title = "Accueil";

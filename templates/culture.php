@@ -8,17 +8,17 @@
 
 <body>
     <header>
+        <section>
+            <?php
+            include "inc/banniere.php";
+            ?>
+        </section>
         <nav>
             <?php
             include "inc/menu.php";
             ?>
         </nav>
     </header>
-    <section>
-        <?php
-        include "inc/banniere.php";
-        ?>
-    </section>
     <footer>
 
     </footer>
